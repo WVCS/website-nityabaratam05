@@ -1,26 +1,54 @@
-<html>
-  <body>
-    <style>
 body {
   background-color: rgb(245, 245, 245);
 }
+
+nav {
+  list-style-type: none;
+  font-family: "Georgia", serif;
+  font-style: normal;
+  font-color: black;
+  border-style: double;
+  border-color: #F8E0DD;
+  letter-spacing: 1px;
+  width: 100%;
+  padding: 20px 50px; 
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+   text-decoration: none; 
+    padding: 20px 50px; 
+}
+li a: hover {
+}
+
 h1 {
   font-family: "Georgia", serif;
   font-style: normal;
   border-style: double;
   border-color: #d7facd;
-  letter-spacing: 2px
-  width: 90%;
+  letter-spacing: 1px;
+  width: 100%;
   padding: 15px;
 }
+
 h2 {
   font-family: "Georgia", serif;
   font-style: normal;
   border-style: double;
   border-color: #d9fbfC;
+  letter-spacing: 1px;
   width: 27%;
   padding: 10px;
   text-align: center;
- </style>
-</body>
-</html>
+}
+
+img {
+  width: 30%;
+  border-style: double;
+  border-color: #F9DEB5;
+  }
