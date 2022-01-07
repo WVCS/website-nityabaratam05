@@ -46,3 +46,13 @@ h2 {
   padding: 10px;
   text-align: center;
 }
+
+h3 {
+  font-family: "Georgia", serif;
+  font-style: normal;
+  border-style: double;
+  border-color: #F8F4C9;
+  letter-spacing: 1px;
+  width: 50;
+  text-align: left
+}
